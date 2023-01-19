@@ -21,3 +21,5 @@ int main()
     selectionSort(arr, n);
     for(int i=0; i<n; i++) cout<<arr[i]<<" ";
 }
+
+//op: 11 15 18 27 35
